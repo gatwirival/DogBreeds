@@ -1,6 +1,6 @@
 # Project: Use a Pre-trained Image Classifier to Identify Dog Breeds
-![Screenshot from 2023-11-05 15-44-50](https://github.com/gatwirival/DogBreeds/assets/61587290/00e1b746-edd7-408b-b60a-06272572a9b1)
 
+![Screenshot from 2023-11-05 15-44-50](https://github.com/gatwirival/DogBreeds/assets/61587290/c50b26ad-66fc-40b4-9bfa-f1fc8704fb5e)
 
 Image classifier to identify dog breeds by drawing upon libraries and automating scripts to solve complex problems quickly. 
 This project was part of the [AI-Programming with Python Nanodregree by Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
